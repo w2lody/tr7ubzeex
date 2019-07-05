@@ -5,7 +5,7 @@ bot.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("520742855321321493");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**__# Weélcoome To Oreo ..,:crescent_moon: __**`), 4000)        
+setTimeout(() => mohamed.send(`**,:tanabata_tree: ~ #Weélcoome ``2`` ,Server``Outside`` !! :black_heart: :Outside: **`), 4000)        
 }
 });
 
